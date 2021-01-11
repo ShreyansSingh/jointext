@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: royalblue;
+  }
+
+  #displaypara1{
+      font-weight: bold;
+      color: chocolate;
+  }
+  #displaypara2{
+    font-weight: bold;
+    color: darkgoldenrod;
+}
